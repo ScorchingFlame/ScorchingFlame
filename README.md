@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ScorchingFlame&show_icons=true&theme=dark&cache_seconds=1800&locale=en&layout=compact" alt="ScorchingFlame" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scorchingflame&show_icons=true&locale=en" alt="scorchingflame" /></p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
